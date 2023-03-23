@@ -1,0 +1,187 @@
+City,Population,Median Household Income,Unemployment Rate,Wage-based Gini,Median Age,State,Place,Cluster
+"Taylor city, Michigan",61379,38.0,50053,2331.0,0.4172,26,79000,1
+"Dothan city, Alabama",67894,39.6,47081,2226.0,0.5042,1,21184,1
+"Yuba City city, California",66516,35.0,56816,2585.0,0.4431,6,86972,1
+"Delano city, California",52886,30.4,43641,2521.0,0.4298,6,18394,1
+"Casa Grande city, Arizona",55653,37.2,52841,1589.0,0.4304,4,10530,1
+"Davis city, California",68543,25.5,69379,1980.0,0.526,6,18100,1
+"Tulare city, California",63547,28.4,54037,1857.0,0.4181,6,80644,1
+"Yucaipa city, California",53416,36.4,69104,1122.0,0.4358,6,87042,1
+"Porterville city, California",59697,30.5,43823,3092.0,0.4772,6,58240,1
+"Pittsburg city, California",71422,34.7,74459,3033.0,0.4402,6,57456,1
+"Santa Cruz city, California",64522,28.8,77921,2762.0,0.5133,6,69112,1
+"Paramount city, California",54513,30.9,55670,1390.0,0.3774,6,55618,1
+"Redlands city, California",71198,37.2,74839,2027.0,0.4781,6,59962,1
+"Lake Elsinore city, California",65817,30.6,71476,2514.0,0.3933,6,39486,1
+"Florence-Graham CDP, California",65716,28.8,44328,2508.0,0.4155,6,24477,1
+"La Mesa city, California",59556,35.7,66051,2246.0,0.4337,6,40004,1
+"Watsonville city, California",53800,30.6,55470,1974.0,0.4374,6,83668,1
+"Flagstaff city, Arizona",72402,25.2,58748,3089.0,0.4649,4,23620,1
+"Upland city, California",76596,38.3,72782,1930.0,0.4445,6,81344,1
+"Auburn city, Alabama",64054,24.8,47318,1390.0,0.5534,1,3076,1
+"Rogers city, Arkansas",66344,33.1,61551,847.0,0.4992,5,60410,1
+"Fayetteville city, Arkansas",85166,27.3,43690,2225.0,0.5268,5,23290,1
+"Springdale city, Arkansas",79598,31.7,50343,2112.0,0.4431,5,66080,1
+"Turlock city, California",72904,34.2,59681,2511.0,0.4574,6,80812,1
+"Cathedral City city, California",54357,39.4,46521,1589.0,0.5152,6,12048,1
+"Highland city, California",55049,30.9,64868,2104.0,0.4611,6,33588,1
+"Perris city, California",77290,28.3,63829,2608.0,0.3951,6,56700,1
+"National City city, California",61121,34.2,47119,1794.0,0.4506,6,50398,1
+"Conway city, Arkansas",66127,28.9,47221,1070.0,0.5048,5,15190,1
+"North Little Rock city, Arkansas",66075,34.2,43703,2091.0,0.499,5,50450,1
+"West Sacramento city, California",53151,34.3,70699,1921.0,0.4577,6,84816,1
+"Lynwood city, California",70635,30.0,52213,2673.0,0.4063,6,44574,1
+"Dundalk CDP, Maryland",63015,38.6,55757,2054.0,0.4327,24,23975,1
+"Warner Robins city, Georgia",76115,33.5,51779,2465.0,0.4382,13,80508,1
+"Pontiac city, Michigan",59955,31.9,33568,3360.0,0.4759,26,65440,1
+"Owensboro city, Kentucky",59536,38.0,43369,1491.0,0.4813,21,58620,1
+"Hammond city, Indiana",76547,35.7,46406,2755.0,0.4414,18,31000,1
+"Bloomington city, Illinois",78015,35.0,67507,1454.0,0.4928,17,6613,1
+"Iowa City city, Iowa",74950,26.5,49075,2089.0,0.5113,19,38595,1
+"Berwyn city, Illinois",55407,35.1,62758,1184.0,0.4085,17,5573,1
+"Marietta city, Georgia",60544,34.9,57452,1489.0,0.4832,13,49756,1
+"Smyrna city, Georgia",56268,35.2,76444,1569.0,0.4509,13,71492,1
+"Country Club CDP, Florida",50431,36.9,48184,1456.0,0.4306,12,14895,1
+"Sanford city, Florida",59700,34.9,47217,2150.0,0.4644,12,63650,1
+"Grand Junction city, Colorado",62062,37.1,52504,2174.0,0.462,8,31660,1
+"Apple Valley town, California",72726,36.7,54527,3085.0,0.4402,6,2364,1
+"Colton city, California",54580,31.4,53838,1787.0,0.3977,6,14890,1
+"Huntington Park city, California",58353,31.3,42447,2375.0,0.4183,6,36056,1
+"Hanford city, California",56475,33.5,62413,1896.0,0.4321,6,31960,1
+"Ocala city, Florida",59267,38.3,41755,2146.0,0.5326,12,50750,1
+"Evanston city, Illinois",74587,36.1,78904,1559.0,0.5542,17,24582,1
+"Greenwood city, Indiana",57764,35.0,63474,1011.0,0.4092,18,29898,1
+"Sioux City city, Iowa",82531,34.4,55433,2088.0,0.4304,19,73335,1
+"Poinciana CDP, Florida",69955,36.5,49878,1624.0,0.3915,12,57900,1
+"Homestead city, Florida",68438,30.6,47508,2312.0,0.4484,12,32275,1
+"Pocatello city, Idaho",55525,32.5,46617,1533.0,0.4578,16,64090,1
+"Haverhill city, Massachusetts",63533,36.8,69426,1909.0,0.4247,25,29405,1
+"Anderson city, Indiana",54513,38.3,37038,1993.0,0.4527,18,1468,1
+"Daytona Beach city, Florida",67604,40.6,35893,2080.0,0.5039,12,16525,1
+"Pensacola city, Florida",52642,36.9,50493,1416.0,0.5067,12,55925,1
+"St. Cloud city, Florida",51158,35.6,55440,1479.0,0.3991,12,62625,1
+"Fort Smith city, Arkansas",87743,36.5,41724,1969.0,0.4871,5,24550,1
+"Jonesboro city, Arkansas",76036,32.8,45931,2607.0,0.4979,5,35710,1
+"Wyoming city, Michigan",75702,33.5,54328,1876.0,0.4002,26,88940,1
+"Montebello city, California",62742,36.1,56150,2238.0,0.4358,6,48816,1
+"Rancho Cordova city, California",73147,34.5,65307,2839.0,0.4259,6,59444,1
+"Lodi city, California",65846,35.0,58763,2216.0,0.4537,6,42202,1
+"Lafayette city, Indiana",72581,33.2,46374,2097.0,0.4249,18,40788,1
+"Champaign city, Illinois",87636,27.4,48415,2132.0,0.5466,17,12385,1
+"Bellflower city, California",77195,34.6,60011,2242.0,0.4361,6,4982,1
+"Council Bluffs city, Iowa",62355,38.4,53524,1410.0,0.416,19,16860,1
+"Caldwell city, Idaho",54887,29.7,49046,1663.0,0.3939,16,12250,1
+"Malden city, Massachusetts",60984,34.6,65975,1704.0,0.4666,25,37875,1
+"Idaho Falls city, Idaho",61459,33.4,53148,1124.0,0.468,16,39700,1
+"North Miami city, Florida",62489,36.0,41611,2479.0,0.4984,12,49450,1
+"Duluth city, Minnesota",85915,34.1,52463,2133.0,0.4759,27,17000,1
+"Bowling Green city, Kentucky",67600,27.0,42216,1994.0,0.5036,21,8902,1
+"Cicero town, Illinois",82330,30.5,49367,2142.0,0.4049,17,14351,1
+"Stonecrest city, Georgia",54202,33.2,49865,2265.0,0.4151,13,73784,1
+"Brookhaven city, Georgia",53819,34.2,92604,851.0,0.5069,13,10944,1
+"Normal town, Illinois",54891,24.6,58111,852.0,0.4855,17,53234,1
+"Wilmington city, Delaware",70644,35.6,45032,2892.0,0.5439,10,77580,1
+"Elkhart city, Indiana",52257,33.5,40750,1900.0,0.4262,18,20728,1
+"Kenner city, Louisiana",66777,37.0,54975,1574.0,0.4664,22,39475,1
+"Portland city, Maine",66595,36.8,60467,1163.0,0.462,23,60545,1
+"Bossier City city, Louisiana",68248,34.0,50340,1567.0,0.4494,22,8920,1
+"East Hartford CDP, Connecticut",50272,37.8,55967,2033.0,0.4386,9,22700,1
+"Decatur city, Illinois",72359,40.2,42701,3111.0,0.4835,17,18823,1
+"Dearborn Heights city, Michigan",55857,36.9,49750,1489.0,0.4428,26,21020,1
+"Kentwood city, Michigan",51693,34.4,54197,864.0,0.4078,26,42820,1
+"Waterloo city, Iowa",67912,36.8,47327,2015.0,0.4658,19,82425,1
+"Dubuque city, Iowa",58196,37.3,54234,1478.0,0.445,19,22395,1
+"St. Cloud city, Minnesota",68001,30.9,49135,2795.0,0.4619,27,56896,1
+"Ames city, Iowa",66023,23.3,48105,2167.0,0.4951,19,1855,1
+"Terre Haute city, Indiana",60673,32.5,36406,2506.0,0.4794,18,75428,1
+"Coeur d'Alene city, Idaho",50540,36.8,51073,1060.0,0.4431,16,16750,1
+"Valdosta city, Georgia",56095,28.5,32595,1765.0,0.5614,13,78800,1
+"Kissimmee city, Florida",71185,34.5,40826,1964.0,0.4276,12,36950,1
+"Woodland city, California",59710,36.5,69612,1678.0,0.4333,6,86328,1
+"Towson CDP, Maryland",57817,33.3,88786,1296.0,0.5017,24,78425,1
+"Lake Charles city, Louisiana",77283,36.2,42942,2334.0,0.5159,22,41155,1
+"Manhattan city, Kansas",55290,24.5,50537,1640.0,0.4796,20,44250,1
+"New Britain city, Connecticut",72767,33.8,46499,2860.0,0.4546,9,50370,1
+"West Haven city, Connecticut",54763,36.6,62985,2826.0,0.4239,9,82800,1
+"Lauderhill city, Florida",71625,35.7,41723,2891.0,0.4422,12,39550,1
+"Battle Creek city, Michigan",51316,36.3,42298,1828.0,0.468,26,5920,1
+"Madera city, California",64833,28.6,45163,2587.0,0.4336,6,45022,1
+"Muncie city, Indiana",68750,28.6,33944,2671.0,0.485,18,51876,1
+"Hamilton city, Ohio",62182,36.6,47064,1970.0,0.419,39,33012,1
+"Lakewood city, Washington",60111,35.7,51972,1871.0,0.4546,53,38038,1
+"Harrisonburg city, Virginia",53273,25.4,46679,1320.0,0.4839,51,35624,1
+"Lancaster city, Pennsylvania",59433,32.0,45514,2291.0,0.4406,42,41216,1
+"St. Joseph city, Missouri",75913,36.8,48197,1742.0,0.4519,29,64550,1
+"Schenectady city, New York",65334,36.2,45438,2985.0,0.4383,36,65508,1
+"Gastonia city, North Carolina",75887,38.4,49460,2760.0,0.47,37,25580,1
+"Asheville city, North Carolina",91560,39.0,49930,1418.0,0.4666,37,2140,1
+"Rocky Mount city, North Carolina",54548,39.4,40633,1935.0,0.4807,37,57500,1
+"Grand Forks city, North Dakota",56500,29.0,50076,1398.0,0.4889,38,32060,1
+"Springfield city, Ohio",59132,35.8,39332,2739.0,0.4472,39,74118,1
+"Midwest City city, Oklahoma",57288,36.0,49914,1534.0,0.4125,40,48350,1
+"Lynchburg city, Virginia",80569,28.3,46409,2256.0,0.4623,51,47672,1
+"Jackson city, Tennessee",66870,35.9,43621,1814.0,0.5054,47,37640,1
+"Pawtucket city, Rhode Island",71844,37.6,50476,2876.0,0.4446,44,54640,1
+"Rock Hill city, South Carolina",73334,34.6,50444,2259.0,0.4619,45,61405,1
+"Albany city, Oregon",53521,37.0,60624,1737.0,0.416,41,1000,1
+"Springfield city, Oregon",62077,36.1,47695,2556.0,0.4126,41,69600,1
+"Grand Island city, Nebraska",51147,34.9,54965,1136.0,0.4377,31,19595,1
+"Lakewood CDP, New Jersey",56072,16.9,50897,726.0,0.4969,34,38580,1
+"Hempstead village, New York",55300,33.9,62569,1271.0,0.448,36,33139,1
+"Jacksonville city, North Carolina",73025,23.1,44956,2299.0,0.4174,37,34200,1
+"Conroe city, Texas",84358,33.6,60343,1865.0,0.4732,48,16432,1
+"Baytown city, Texas",76635,32.9,57270,3030.0,0.4316,48,6128,1
+"Pasco city, Washington",72899,29.5,62775,2170.0,0.4015,53,53545,1
+"Missoula city, Montana",73710,32.8,47426,2208.0,0.4866,30,50200,1
+"Utica city, New York",60320,34.0,37760,2190.0,0.5051,36,76540,1
+"Burlington city, North Carolina",53063,38.9,43225,1812.0,0.4829,37,9060,1
+"Chapel Hill town, North Carolina",60998,25.8,73614,1070.0,0.5487,37,11800,1
+"Elyria city, Ohio",53821,39.2,44324,1838.0,0.4439,39,25256,1
+"San Marcos city, Texas",63220,24.2,40370,2789.0,0.4841,48,65600,1
+"Mission city, Texas",83567,31.7,48815,2692.0,0.5012,48,48768,1
+"Johnson City city, Tennessee",66515,35.6,41682,1873.0,0.5411,47,38320,1
+"Scranton city, Pennsylvania",77054,37.2,40608,1876.0,0.4715,42,69000,1
+"Greenville city, South Carolina",67737,34.3,56609,1654.0,0.5398,45,30850,1
+"Passaic city, New Jersey",70019,30.1,40865,1634.0,0.4983,34,56550,1
+"Bismarck city, North Dakota",72777,37.2,64444,927.0,0.4375,38,7200,1
+"Summerville town, South Carolina",53037,35.6,59180,1463.0,0.4411,45,70270,1
+"Casper city, Wyoming",58446,35.9,61979,1218.0,0.4352,56,13150,1
+"Cheyenne city, Wyoming",63607,36.6,64598,1773.0,0.4368,56,13900,1
+"West New York town, New Jersey",52662,36.2,56436,1700.0,0.4693,34,79610,1
+"Lakewood city, Ohio",50259,34.7,53290,1432.0,0.4575,39,41664,1
+"Lorain city, Ohio",63801,37.0,38291,2483.0,0.4724,39,44856,1
+"Enid city, Oklahoma",50394,35.0,51952,1176.0,0.4398,40,23950,1
+"Oshkosh city, Wisconsin",66773,33.9,50892,1208.0,0.4019,55,60500,1
+"New Brunswick city, New Jersey",55960,23.6,43783,1365.0,0.5014,34,51210,1
+"Union City city, New Jersey",68226,36.2,48992,1711.0,0.4663,34,74630,1
+"St. George city, Utah",84500,37.2,58259,1361.0,0.4465,49,65330,1
+"Bethlehem city, Pennsylvania",75461,35.5,55809,1984.0,0.4504,42,6088,1
+"La Crosse city, Wisconsin",51666,29.3,45233,1259.0,0.4805,55,40775,1
+"Racine city, Wisconsin",77081,34.7,44056,2371.0,0.4408,55,66000,1
+"Plainfield city, New Jersey",50362,34.6,56339,2063.0,0.4778,34,59190,1
+"Vineland city, New Jersey",60034,38.1,54476,2038.0,0.4611,34,76070,1
+"Longview city, Texas",81653,34.7,49086,1884.0,0.4796,48,43888,1
+"Galveston city, Texas",50241,38.9,49319,1784.0,0.5076,48,28068,1
+"Port Arthur city, Texas",55109,34.5,36557,1614.0,0.4806,48,58820,1
+"Ogden city, Utah",86833,31.8,50061,2068.0,0.4549,49,55980,1
+"Millcreek city, Utah",60731,36.9,72134,1096.0,0.4657,49,50150,1
+"Corvallis city, Oregon",58028,27.4,52942,1815.0,0.5044,41,15800,1
+"Joplin city, Missouri",50386,36.7,45449,1528.0,0.4842,29,37592,1
+"Bayonne city, New Jersey",65091,38.0,63947,1989.0,0.457,34,3580,1
+"Victoria city, Texas",67055,34.4,54192,1927.0,0.4795,48,75428,1
+"Rapid City city, South Dakota",75258,38.0,52351,2148.0,0.4728,46,52980,1
+"Waukesha city, Wisconsin",72412,36.1,65260,1295.0,0.4196,55,84250,1
+"Great Falls city, Montana",58835,38.6,46965,1105.0,0.4809,30,32800,1
+"Appleton city, Wisconsin",74139,35.9,58112,1451.0,0.4376,55,2375,1
+"Harlingen city, Texas",65129,31.6,39752,1692.0,0.4819,48,32372,1
+"Bryan city, Texas",84096,30.5,45771,1694.0,0.4689,48,10912,1
+"Temple city, Texas",74762,34.2,54873,1890.0,0.462,48,72176,1
+"Burien city, Washington",51477,37.9,67402,1588.0,0.4587,53,8850,1
+"Medford city, Oregon",81145,37.4,50116,2287.0,0.4479,41,47000,1
+"Logan city, Utah",50863,24.0,41833,791.0,0.4322,49,45860,1
+"Olympia city, Washington",51534,38.4,59878,1412.0,0.4512,53,51300,1
+"Kennewick city, Washington",81479,33.7,59533,2245.0,0.4275,53,35275,1
+"Pharr city, Texas",78073,29.2,39884,1495.0,0.4458,48,57200,1
+"Perth Amboy city, New Jersey",51678,33.3,52563,952.0,0.4465,34,58200,1
+"West Allis city, Wisconsin",60025,37.9,52325,1259.0,0.3995,55,85300,1
+"Eau Claire city, Wisconsin",68187,31.7,55477,1593.0,0.4317,55,22300,1
